@@ -39,6 +39,7 @@ print(list_of_nums)
 # use the selection sort function
 # print the sorted list
 
+```
 
 ## Output:
 
