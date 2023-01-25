@@ -19,7 +19,8 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 i)	#Selection Sort
-''' 
+'''Python
+
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: C Saravanan
 RegisterNumber: 22008175
@@ -39,7 +40,7 @@ print(list_of_nums)
 # use the selection sort function
 # print the sorted list
 
-```
+
 
 ## Output:
 
@@ -49,11 +50,14 @@ print(list_of_nums)
 
 
 ```
-ii)	#Insertion Sort
-''' 
+ii)	#Insertion Sort 
+
+'''Python
+
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: C Saravanan
 RegisterNumber: 22008175
+
 '''
     # Write your code here to sort the elements in the list using Insertion sort algorithm 
 def insertion_sort(nums):
@@ -78,7 +82,7 @@ print(list_of_nums)
 ```
 
 ## Output:
-![Output](/Sorting-Algorithm/insertion%20sorting.jpg)
+![Output](sorting.jpg)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
