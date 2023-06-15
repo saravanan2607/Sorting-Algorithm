@@ -67,7 +67,8 @@ print(list_of_nums)
 
 ```
 ## Output:
-![Output](sorting.jpg)
+![Exp 3b-CR-Linear Search and Binary Search_ Attempt review - Google Chrome 15-06-2023 09_50_52 (2)](https://github.com/saravanan2607/Sorting-Algorithm/assets/121395849/8fac5967-0ef7-44a5-aafa-9e485a30fc5a)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
